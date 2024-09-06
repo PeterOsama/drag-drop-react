@@ -27,5 +27,7 @@ When the user releases the dragged item, the dropHandler is invoked:
   handle empty list scenario
 
 in previous example it depended on that the list is always contains items, thus for 
+```javascript
   onDragEnter={(e) => dragEnterHandler(e)}
+```
   used but with multiple lists it can be an empty list so dragListEnterHandler function needed
