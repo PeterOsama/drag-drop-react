@@ -1,6 +1,6 @@
-# Simple drag and drop example
+## Simple drag and drop example
 
-1- DragAndDrop.tsx:
+# 1- DragAndDrop.tsx:
 
 Drag and drop inside the same list.
 
@@ -17,7 +17,7 @@ When the user releases the dragged item, the dropHandler is invoked:
   The items' positions in the data array are swapped.
   The state is updated with the new order, causing the list to re-render with the items in their new positions.
 
-2- DragAndDropBetweenTwoLists.tsx
+# 2- DragAndDropBetweenTwoLists.tsx
 
   drap and drop items between different lists 
   handle empty list scenario
