@@ -1,4 +1,5 @@
-## Simple drag and drop example
+## Simple drag-and-drop example
+without third party libraries
 
 ![alt text](https://raw.githubusercontent.com/PeterOsama/drag-drop-react/main/public/Animation.gif)
 
@@ -21,7 +22,7 @@ The state is updated with the new order, causing the list to re-render with the 
 
 # 2- DragAndDropBetweenTwoLists.tsx
 
-drap and drop items between different lists
+drag and drop items between different lists
 handle empty list scenario
 
 In the previous example, the logic assumed that the list always contains items, so
